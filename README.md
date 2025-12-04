@@ -23,9 +23,9 @@ The data used are public information from minority-serving institutions (MSIs) a
 
 **Public URL of Tableau Public Visualization**
 
-[](https://public.tableau.com/views/MSIDatasets/DistributionofMinority-ServingInstitutionsAcrosstheU_S?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[(https://public.tableau.com/views/MSIDatasets/DistributionofMinority-ServingInstitutionsAcrosstheU_S?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
-[](https://public.tableau.com/views/MSIDatasets/NumberofMSIsbyInstitutionalType?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[(https://public.tableau.com/views/MSIDatasets/NumberofMSIsbyInstitutionalType?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ## Short Written Reflection 
 
